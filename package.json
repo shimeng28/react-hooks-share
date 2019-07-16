@@ -12,7 +12,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
-  "homepage": "https://github.com/shimeng28/shimeng28.github.io/react-hooks-share",
+  "homepage": "https://github.com/react-hooks-share",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
