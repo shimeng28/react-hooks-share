@@ -1,7 +1,7 @@
 import React from 'react';
 import { Menu } from 'antd';
 import {
-  BrowserRouter as Router, Link,
+  HashRouter as Router, Link,
   Route, Switch,
 } from 'react-router-dom';
 import Home from './hooks/Home';
