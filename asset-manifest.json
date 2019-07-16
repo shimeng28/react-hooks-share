@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/shimeng28/shimeng28.github.io/react-hooks-share/static/css/main.d3d6734c.chunk.css",
-    "main.js": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/main.5d2eadd6.chunk.js",
-    "main.js.map": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/main.5d2eadd6.chunk.js.map",
-    "runtime~main.js": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/runtime~main.70996445.js",
-    "runtime~main.js.map": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/runtime~main.70996445.js.map",
-    "static/css/2.46439c26.chunk.css": "/shimeng28/shimeng28.github.io/react-hooks-share/static/css/2.46439c26.chunk.css",
-    "static/js/2.cfa29ff0.chunk.js": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/2.cfa29ff0.chunk.js",
-    "static/js/2.cfa29ff0.chunk.js.map": "/shimeng28/shimeng28.github.io/react-hooks-share/static/js/2.cfa29ff0.chunk.js.map",
-    "index.html": "/shimeng28/shimeng28.github.io/react-hooks-share/index.html",
-    "precache-manifest.ffa46d61f2544da2402fa0168c528fa2.js": "/shimeng28/shimeng28.github.io/react-hooks-share/precache-manifest.ffa46d61f2544da2402fa0168c528fa2.js",
-    "service-worker.js": "/shimeng28/shimeng28.github.io/react-hooks-share/service-worker.js",
-    "static/css/2.46439c26.chunk.css.map": "/shimeng28/shimeng28.github.io/react-hooks-share/static/css/2.46439c26.chunk.css.map",
-    "static/css/main.d3d6734c.chunk.css.map": "/shimeng28/shimeng28.github.io/react-hooks-share/static/css/main.d3d6734c.chunk.css.map"
+    "main.css": "/react-hooks-share/static/css/main.d3d6734c.chunk.css",
+    "main.js": "/react-hooks-share/static/js/main.43612dfe.chunk.js",
+    "main.js.map": "/react-hooks-share/static/js/main.43612dfe.chunk.js.map",
+    "runtime~main.js": "/react-hooks-share/static/js/runtime~main.3a97d2db.js",
+    "runtime~main.js.map": "/react-hooks-share/static/js/runtime~main.3a97d2db.js.map",
+    "static/css/2.46439c26.chunk.css": "/react-hooks-share/static/css/2.46439c26.chunk.css",
+    "static/js/2.9474a257.chunk.js": "/react-hooks-share/static/js/2.9474a257.chunk.js",
+    "static/js/2.9474a257.chunk.js.map": "/react-hooks-share/static/js/2.9474a257.chunk.js.map",
+    "index.html": "/react-hooks-share/index.html",
+    "precache-manifest.93b742fff6022ba46ff8ebf65b32cb0a.js": "/react-hooks-share/precache-manifest.93b742fff6022ba46ff8ebf65b32cb0a.js",
+    "service-worker.js": "/react-hooks-share/service-worker.js",
+    "static/css/2.46439c26.chunk.css.map": "/react-hooks-share/static/css/2.46439c26.chunk.css.map",
+    "static/css/main.d3d6734c.chunk.css.map": "/react-hooks-share/static/css/main.d3d6734c.chunk.css.map"
   }
 }
