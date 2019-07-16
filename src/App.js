@@ -45,7 +45,7 @@ const list = [
     component: SimpleHooksComp4,
   },
   {
-    to: '/context',
+    to: '/useReducer',
     name: 'React 05 --- useReducer',
     component: SimpleHooksComp5,
   },
